@@ -25,8 +25,8 @@ export default () => {
 	})
 
 	return {
-		filter,
 		newTask,
+		filter,
 		filteredTasks,
 		removeTask,
 		addTask,
